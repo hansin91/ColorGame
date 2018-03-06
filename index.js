@@ -1,2 +1,3 @@
 const var = "hello";
-const hallo = "";
+const halo ="";
+const score = 1;
